@@ -1,0 +1,159 @@
+@meta charset utf-8;
+#nov1{
+	display: inline-block;
+}
+#nov2{
+	margin-right: 10px;
+}
+.w3-content{
+	bottom: 10px;
+}
+.noticia{
+	font-family: arial black;
+	left: 40px;
+	margin-left: 500px;
+	color:#d12912;
+}
+.noticia2{
+	font-family: arial black;
+	left: 40px;
+	margin-left: 450px;
+	color:#d12912;
+}
+.novidades{
+	box-shadow: 0px 0px 10px rgba(0,0,0,.5);
+	margin: 10px;
+	left:100px;
+	width: 1100px;
+	height: 700px;
+	position:relative;
+	top: -19%;
+	display: inline-block;
+	background-color: #ffffff;
+}
+.novidades2{
+	box-shadow: 0px 0px 10px rgba(0,0,0,.5);
+	margin: 10px;
+	left:100px;
+	width: 1100px;
+	height: 700px;
+	position:relative;
+	top: -19%;
+	display: inline-block;
+	background-color: #ffffff;
+}
+#nov1{
+	overflow:hidden;
+	margin-right: -123px;
+    width: 400px;
+}
+.not{
+	background-color: #888888;
+	font-family: arial;
+	position: absolute;
+    bottom: 0px;
+	height: 20px;
+    width: 265px;
+	top: 488px;
+    margin: 0px;
+    padding: 12px 24px;
+    min-height: 66px;
+    box-sizing: border-box;
+    color: #FFF;
+    font-size: 18px;
+    line-height: 1.11em;
+    font-weight: 90;
+	object-fit: cover;
+}
+
+#content{
+	overflow:hidden;
+    display: -webkit-box;
+    padding: 4px;
+	margin-left: 120px;
+}
+img{
+	max-width: 100%;
+	-moz-transition: all 0.3s;
+	-webkit-transition: all 0.3s;
+	transition: all 0.3s;
+}
+#nov1:hover .img1{
+	-moz-transform: scale(1.1);
+	-webkit-transform: scale(1.1);
+	transform:scale(1.1);
+}
+#nov2:hover .img2{
+	-moz-transform: scale(1.1);
+	-webkit-transform: scale(1.1);
+	transform:scale(1.1);
+}
+#nov3:hover .img3{
+	-moz-transform: scale(1.1);
+	-webkit-transform: scale(1.1);
+	transform:scale(1.1);
+}
+
+
+.form5{
+	box-shadow: 0px 0px 10px rgba(0,0,0,.5);
+    margin: 10px;
+    left: 100px;
+    width: 1100px;
+    height: 700px;
+    position: relative;
+    top: -19%;
+    display: inline-block;
+    background-color: #ffffff;
+}
+
+#tituloCadastro{
+	font-family: Arial black;
+	margin-left: 450px;
+	color:#d12912;
+}
+#nome{
+	font-size: 20px;
+	font-family: Arial black;
+	padding: 12px 20px;
+	margin-left: 490px;
+	color:#d12912;
+}
+#email{
+	font-size: 20px;
+	font-family: Arial black;
+	padding: 12px 20px;
+	margin-left: 490px;
+	color:#d12912;
+}
+#senha{
+	font-size: 20px;
+	font-family: Arial black;
+	padding: 12px 20px;
+	margin-left: 490px;
+	color:#d12912;
+}
+div .form-control {
+    width: 30%;
+    position: relative;
+	padding: 12px 20px;
+    top: 0%;
+    left: 360px;
+	box-shadow: 0 2px 4px 0 rgba(0,0,0,0.10);
+}
+div .botao3{
+	background-color: #4CAF50;
+	border: 0px;
+	margin-left: 490px;
+	padding: 15px;
+	margin-top: -10px;
+}
+.botao3:hover{
+	color: #fff;
+	background-color: #000;
+	transition: background-color 0.2s, color 0.2s;
+	box-shadow: 4px 0px 15px rgba(0,0,0,.5);
+}
+.checar{
+	margin-left: 340px;
+}
